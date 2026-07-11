@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gauri Sharma</h1>
+<h1 align="center">Hi  I'm Gauri Sharma</h1>
 
 <h3 align="center">BCA Student | MERN Stack Learner | Java & DSA Enthusiast</h3>
 
